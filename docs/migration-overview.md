@@ -15,7 +15,7 @@ If you start without inventory, you will discover the embarrassing stuff in prod
 
 ## Pilot rings
 
-You want **representative misery**: teaching labs, finance laptops, exec assistants, VPN-heavy remote users, and at least one site with bad connectivity.
+You want **representative misery**: branch-office desks, regulated laptops, exec assistants, VPN-heavy remote users, and at least one site with bad connectivity (e.g. pilot tags for `HVN-LON-01` vs `HVN-MCR-01` so you do not only test head office).
 
 Pilot is where you learn:
 
