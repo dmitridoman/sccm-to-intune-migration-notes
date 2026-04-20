@@ -16,9 +16,9 @@ No code on purpose. This is the sort of thing you keep next to the project plan 
 
 Infrastructure engineers who already know what SCCM and Intune are, and who need **judgement prompts**, not another “digital transformation” slide deck.
 
-## Placeholders
+## Illustrative org naming
 
-Any names like `contoso.onmicrosoft.com` or `00000000-0000-0000-0000-000000000000` are sanitised examples.
+Examples use **Harven Group**: `harven.co.uk`, `harvengroup.onmicrosoft.com`, tenant ID `a1b2c3d4-e5f6-7890-abcd-ef1234567890`. Treat as fiction for the portfolio unless that is genuinely your tenant.
 
 ## How to use
 
