@@ -2,15 +2,19 @@
 
 Markdown notes from the uncomfortable part of IT: moving workloads from **Configuration Manager** toward **Intune** without pretending it is a button-click upgrade.
 
+**Status:** reference notes, no code.
+**Runs on:** nothing: Markdown only.
+**Used by:** infrastructure engineers planning a Configuration Manager to Intune move.
+
 No code on purpose. This is the sort of thing you keep next to the project plan so you remember what hurt last time.
 
 ## Contents
 
-- `docs/migration-overview.md` — scope, discovery, sequencing.
-- `docs/co-management-decisions.md` — what co-management is for (and what it is not).
-- `docs/workload-move-checklist.md` — blunt checklist for moving workloads.
-- `docs/common-gotchas.md` — overlap, drift, reporting holes.
-- `docs/rollback-considerations.md` — how to back out without heroics.
+- `docs/migration-overview.md`: scope, discovery, sequencing.
+- `docs/co-management-decisions.md`: what co-management is for (and what it is not).
+- `docs/workload-move-checklist.md`: blunt checklist for moving workloads.
+- `docs/common-gotchas.md`: overlap, drift, reporting holes.
+- `docs/rollback-considerations.md`: how to back out without heroics.
 
 ## Who this is for
 
